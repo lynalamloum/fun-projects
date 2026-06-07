@@ -79,3 +79,10 @@ C'est la v1. Une v2 avec une vraie interface web est prévue avec les mêmes fon
 ---
 
 *Built with Python, tkinter, pygame, Shazam and yt-dlp.*
+
+---
+ 
+## Author / Auteur
+ 
+Projet réalisé dans le cadre d'un apprentissage personnel de Python.  
+Personal Python learning project.
