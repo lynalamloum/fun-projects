@@ -1,0 +1,6 @@
+pygame
+mutagen
+shazamio
+pillow
+requests
+yt-dlp
